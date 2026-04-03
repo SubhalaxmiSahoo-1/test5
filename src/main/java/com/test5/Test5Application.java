@@ -16,6 +16,7 @@ public class Test5Application {
         char f = 'G';
         String name = "Subha";
 String email = "subha@gmail.com";
+		int h = 100;
 		SpringApplication.run(Test5Application.class, args);
 	}
 
