@@ -19,6 +19,7 @@ public class Test5Application {
         int h = 100;
 	    boolean isSub = true;;
 		String area = bengaluru;
+		int ab = 2000;
 		SpringApplication.run(Test5Application.class, args);
 	}
 
