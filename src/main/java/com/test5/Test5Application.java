@@ -14,11 +14,12 @@ public class Test5Application {
         long d = 14;
         float e = 15.0F;
         char f = 'G';
-       		String name = "Subha";
-        	String email = "subha@gmail.com";
+       	String name = "Subha";
+        String email = "subha@gmail.com";
         int h = 100;
 	    boolean isSub = true;;
 		String area = "bengaluru";
+		int q = 600;
 		int ab = 2000;
 		SpringApplication.run(Test5Application.class, args);
 	}
