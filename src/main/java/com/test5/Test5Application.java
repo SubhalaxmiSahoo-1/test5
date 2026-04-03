@@ -18,6 +18,7 @@ public class Test5Application {
         String email = "subha@gmail.com";
         int h = 100;
 	    boolean isSub = true;;
+		String area = bengaluru;
 		SpringApplication.run(Test5Application.class, args);
 	}
 
